@@ -84,9 +84,13 @@ hr {
 .btn-success {
   background-color: #F96B6A !important;
   border-color: #F96B6A !important;
-  height: 14.5px;
-  width: 30px;
+  height: 21px;
+  width: 33px;
   border: none;
+}
+
+.btn-success .fa-cart-shopping {
+
 }
 .featured-area {
   background-color: rgb(228, 221, 212);
@@ -160,6 +164,10 @@ background-color: #5154f5;
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+.tab .tab_content .tabs_item {
+  display: none;
 }
 
 
